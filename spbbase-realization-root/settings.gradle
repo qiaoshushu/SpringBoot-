@@ -1,0 +1,2 @@
+rootProject.name = 'spbbase-realization-root'
+includeFlat 'spbbase-realization','spbbase-realization-service-api','spbbase-realization-web','spbbase-gateway'
